@@ -4,7 +4,6 @@ The Queue Deque follows FiFo inventory management, the stack implements LiFo inv
 
 |SAMPLE OUTPUT|
 
-*** P03: Widget Inventory ***
 Are you using (1) FIFO or (2) LIFO inventory management? 1
 1. Buy Widgets
 2. Sell Widgets
